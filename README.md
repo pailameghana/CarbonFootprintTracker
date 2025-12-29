@@ -5,13 +5,18 @@ A web-based application that helps users track, visualize, and reduce their carb
 🔗 Live Demo
 
 👉 Demo Link:
-https://1drv.ms/v/c/312acdbca5704597/IQBeZVvQ1HBGQLoUP1y9inbiARDeoU7vf24WtSwycxjns58?e=6KWMYw
+https://drive.google.com/file/d/1QJnGo4ABZDY16t9OgIg5Wp4HGREGx0OJ/view?usp=drive_link
 
 📂 GitHub Repository
 
 👉 GitHub Link:
 https://github.com/pailameghana/CarbonFootprintTracker.git
 
+👉 Mpv Link:
+https://6951fd81fa81b78d829b642c--splendid-crepe-8c14aa.netlify.app/
+
+👉 Project deck/Presentation 
+https://storage.googleapis.com/vision-hack2skill-production/innovator/USER01237137/1766980298187-Mppt2.pdf
 
 📌 Project Overview
 
