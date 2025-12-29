@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carbon Footprint Tracker</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Charts -->
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+    <h2>🌱 Carbon Footprint Tracker</h2>
+    <p class="subtitle">Know your impact. Change your habits.</p>
+
+    <label>🚗 Travel Distance (km per day)</label>
+    <input type="number" id="travel">
+
+    <label>⚡ Electricity Usage (units per day)</label>
+    <input type="number" id="electricity">
+
+    <label>🍽 Food Meals per Day</label>
+    <input type="number" id="food">
+
+    <button onclick="calculate()">Check My Carbon Footprint</button>
+
+    <div id="result"></div>
+    <div id="level"></div>
+    <div id="tips"></div>
+
+    <div id="chart_div"></div>
+</div>
+
+<!-- JavaScript -->
+<script src="script.js"></script>
+
+</body>
+</html>
